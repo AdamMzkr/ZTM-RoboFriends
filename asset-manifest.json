@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZTM-roboFriends/static/css/main.c2469793.css",
+    "main.js": "/ZTM-roboFriends/static/js/main.4b5e5924.js",
+    "static/js/787.b60ac1b7.chunk.js": "/ZTM-roboFriends/static/js/787.b60ac1b7.chunk.js",
+    "index.html": "/ZTM-roboFriends/index.html",
+    "main.c2469793.css.map": "/ZTM-roboFriends/static/css/main.c2469793.css.map",
+    "main.4b5e5924.js.map": "/ZTM-roboFriends/static/js/main.4b5e5924.js.map",
+    "787.b60ac1b7.chunk.js.map": "/ZTM-roboFriends/static/js/787.b60ac1b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2469793.css",
+    "static/js/main.4b5e5924.js"
+  ]
+}
